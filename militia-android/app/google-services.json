@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "327407270986",
+    "firebase_url": "https://veto-3d4d0-default-rtdb.firebaseio.com",
+    "project_id": "veto-3d4d0",
+    "storage_bucket": "veto-3d4d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327407270986:android:6a24fef6e5ba7d5ca6bab3",
+        "android_client_info": {
+          "package_name": "com.reallyinvincible.veto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327407270986-2tlc7r5pt25ivc4g57qiq3ql9b02nr9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWaaBXKM1cGDnGSO2M1Klf9Z4H3Jdrcw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327407270986-2tlc7r5pt25ivc4g57qiq3ql9b02nr9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

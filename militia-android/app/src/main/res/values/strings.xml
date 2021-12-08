@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Veto</string>
+
+    <string name="chirp_key">ee895EaBC34D87BCB77Db3a2b</string>
+    <string name="chirp_secret">21B74a053facc4EAe2AdEB980CB0050cb94AABB53dFa7c320b</string>
+
+</resources>
